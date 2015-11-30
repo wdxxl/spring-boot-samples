@@ -1,2 +1,3 @@
 include 'spring-boot-basic'
 include 'spring-boot-simple'
+include 'spring-boot-tomcat'
