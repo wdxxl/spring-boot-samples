@@ -7,15 +7,15 @@
 + **03 Execution Jar** gradle build & java -jar build/libs/mySpringBootTomcat-0.0.1-SNAPSHOT.jar 
 + **04 Unit Test** use unit test to check Accept-Encoding:gzip 
 + **05 Restful**
-
+``
     Status Code: 200 OK
-    Content-Encoding: gzip
+    **Content-Encoding: gzip**
     Content-Type: text/html;charset=UTF-8
     Date: Mon, 30 Nov 2015 09:35:57 GMT
-    Server: Apache-Coyote/1.1
+    **Server: Apache-Coyote/1.1**
     Transfer-Encoding: chunked
     Vary: Accept-Encoding
-
+``
 
 参考网站: 
 + [** Embedded Tomcat **](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-tomcat)
