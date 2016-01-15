@@ -14,7 +14,7 @@ apply plugin : 'eclipse'
 apply plugin : 'spring-boot'
 
 jar {
-    baseName = 'mySpringBootBasic'
+    baseName = 'mySpringBootBasicClient'
     version = '0.0.1-SNAPSHOT'
 }
 

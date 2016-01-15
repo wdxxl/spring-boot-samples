@@ -1,5 +1,8 @@
 include 'spring-boot-basic'
+include 'spring-boot-basic-client'
 include 'spring-boot-simple'
 include 'spring-boot-tomcat'
 include 'spring-boot-jetty'
 include 'spring-boot-sample-activemq'
+include 'spring-boot-sample-secure'
+include 'common'
